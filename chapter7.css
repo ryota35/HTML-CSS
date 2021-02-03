@@ -4,3 +4,23 @@
   box-sizing: border-box;
 }
 
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+h1 {
+  padding: 20px 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.box {
+  padding-bottom: 30px;
+  border-bottom: 1px solid rgb(211, 211, 211);
+}
